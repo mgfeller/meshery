@@ -10,7 +10,7 @@ replace (
 )
 
 require (
-	fortio.org/fortio v1.15.2
+	fortio.org/fortio v1.17.0
 	github.com/99designs/gqlgen v0.13.0
 	github.com/asaskevich/govalidator v0.0.0-20200428143746-21a406dcc535
 	github.com/briandowns/spinner v1.15.0
@@ -27,6 +27,7 @@ require (
 	github.com/gorilla/websocket v1.4.2
 	github.com/gosimple/slug v1.9.0
 	github.com/grafana-tools/sdk v0.0.0-20200411085644-f7626bef00b3
+	github.com/jarcoal/httpmock v1.0.8
 	github.com/jinzhu/copier v0.0.0-20190924061706-b57f9002281a
 	github.com/layer5io/gowrk2 v0.0.0-20191111234958-a4c9071c0f87
 	github.com/layer5io/meshery-operator v0.2.17
